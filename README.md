@@ -1,4 +1,12 @@
 # vue-next-test
+## 技术栈
+   vue3.0 + vue-router + Vuex
+<br>
+
+## 参与开发
+<br>
+更多项目请关注 https://github.com/fanfan1993
+<br>
 
 ## Project setup
 ```
