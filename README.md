@@ -1,6 +1,6 @@
 # vue-next-test
 ## 技术栈
-   vue3.0 + vue-router + Vuex
+   Vue3.0 + vue-router + vuex
 <br>
 
 ## 参与开发
